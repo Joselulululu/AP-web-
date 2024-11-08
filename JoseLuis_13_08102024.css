@@ -1,0 +1,44 @@
+/*
+Creando tablas de nivel 1 css
+*/
+html{
+    box-sizing: border-box;
+    font-size: 62,5%;
+}
+h1{
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    color: brown;
+}
+
+table{
+    background-image: linear-gradient( to left, rgb(137, 72, 150),rgb(32, 19, 151));
+    margin-top: 5rem;
+    caption-side: bottom;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+th img{
+    width: 70%;
+}
+th{
+    background-color: rgb(56, 43, 43);
+    color: white;
+}
+
+
+caption{
+    padding-top: 2rem;
+    font-style: italic;
+    color: rgb(150, 6, 247);
+}
+
+td,th{
+    border: 2px solid black;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+}
