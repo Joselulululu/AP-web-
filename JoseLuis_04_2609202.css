@@ -1,0 +1,41 @@
+/*
+    Jose Luis Lopez Fuentes
+    Septiembre 2024
+*/
+
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a{
+    padding: 25px;
+    margin: 10px;
+    display: block;
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    width: 150px;
+    border-radius: 25px;
+    border: 5px black;
+}
+
+.cajaroja{
+    background-color: rgb(160, 19, 19);
+}
+
+.cajaazul{ background-color: blue; }
+
+.Cajaverde{ background-color: rgb(31, 153, 31);}
+
+.cajaamarilla{ background-color: yellow; }
+
+.cajanaranja{ background-color: orange; }
+
+.cajamorada{ background-color: purple; }
+
+.cajamarron{ background-color: brown; }
+
+.cajarosa{ background-color: pink; }
