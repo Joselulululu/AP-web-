@@ -1,0 +1,41 @@
+body{
+    background-color: goldenrod;
+}
+
+h1{
+    color: blue;
+}
+div{
+    border: 10px;
+    width: 50%;
+
+}
+
+.Primer{
+    border-radius: 20px;
+    width: auto;
+}
+.Segundo{
+    border-color: black;
+    
+}
+
+.Tercero{
+    float: left;
+    border: 5px black;
+    padding: 1%;
+    color: white;
+    width: 20%;
+}
+
+strong{
+    color: green
+}
+
+b{
+    color: red;
+}
+
+i{
+    color: red;
+}

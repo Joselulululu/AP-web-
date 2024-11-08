@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.menuFlex{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 40px auto 40px auto;
+}
+
+.menuFlex a{
+    flex-grow: 1;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+}
+
+
+/*.MenuGrib{
+    display: grid;
+    width: 80%;
+}*/
+
+.MenuGrib a{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+ 
+footer{
+    position: absolute;
+    margin-bottom: 0px;
+}
+
+ 
+
